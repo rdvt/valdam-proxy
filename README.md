@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/ValDam%20Proxy-v0.1.7-8B5CF6?style=for-the-badge&logo=rust" alt="ValDam Proxy v0.1.7" />
+  <img src="https://img.shields.io/badge/ValDam%20Proxy-v0.1.10-8B5CF6?style=for-the-badge&logo=rust" alt="ValDam Proxy v0.1.10" />
 </p>
 
 <h1 align="center">ValDam Proxy</h1>
@@ -53,7 +53,7 @@ Ninguna me convencía del todo. Así que construí la mía.
 
 Lo que empezó como un simple inspector de tráfico creció hasta convertirse en un **proxy MITM profesional** con rewriting dinámico, map local/remote, simulación de redes, scripting Python, breakpoints, reglas de bloqueo, throttling condicional, y mucho más.
 
-Hoy, después de años de desarrollo, **ValDam Proxy versión v0.1.7** está disponible gratuitamente para toda la comunidad.
+Hoy, después de años de desarrollo, **ValDam Proxy versión v0.1.10** está disponible gratuitamente para toda la comunidad.
 
 Si te ayuda en tu trabajo diario, considera apoyar el proyecto:
 
@@ -275,7 +275,7 @@ Todo desde una **interfaz moderna, rápida y nativa** que funciona en **macOS, L
 
 | Característica | Detalle |
 |----------------|---------|
-| **Versión** | v0.1.7 |
+| **Versión** | v0.1.10 |
 | **Motor MITM** | hudsucker + rustls (aws-lc-rs) |
 | **Async runtime** | tokio |
 | **HTTP** | hyper + http-body-util + reqwest |
@@ -310,7 +310,7 @@ Todo desde una **interfaz moderna, rápida y nativa** que funciona en **macOS, L
 
 Puedes descargar los binarios precompilados desde la carpeta de distribución o desde la página de releases.
 
-- **macOS (Apple Silicon)**: `release/ValDam Proxy_0.1.7_aarch64.dmg.zip`
+- **macOS (Apple Silicon)**: `release/ValDam Proxy_0.1.10_aarch64.dmg.zip`
 - **macOS (Intel)**: `release/ValDam-Proxy-macos-latest.zip`
 - **Linux (Ubuntu 22.04+)**: `release/ValDam-Proxy-ubuntu-22.04.zip`
 - **Windows**: `release/ValDam-Proxy-windows-latest.zip`
@@ -432,7 +432,7 @@ Si ValDam Proxy te es útil en tu trabajo diario, considera hacer una donación.
 
 | Característica | ValDam Proxy | Charles Proxy | Proxyman | mitmproxy |
 |---|---|---|---|---|
-| **Versión** | **v0.1.7** | v5.x | v5.x | v10.x |
+| **Versión** | 0.1.10 |v5.x | v5.x | v10.x |
 | **Precio** | **Gratis** | $50 USD | Gratis/Limitado | Gratis |
 | **Lenguaje** | Rust | Java | Swift/ObjC | Python |
 | **UI Nativa** | ✅ Tauri | ✅ Swing | ✅ AppKit | ❌ Web/CLI |
@@ -472,7 +472,7 @@ Si ValDam Proxy te es útil en tu trabajo diario, considera hacer una donación.
 
 <p align="center">
   <sub>
-    Hecho en Rust · v0.1.7 · Varios años de desarrollo<br>
+    Hecho en Rust · v0.1.10 · años de desarrollo<br>
     ValDam Proxy
   </sub>
 </p>
